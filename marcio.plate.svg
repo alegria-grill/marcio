@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.49460646"
-     inkscape:cx="933.06504"
-     inkscape:cy="241.60622"
+     inkscape:cx="902.7379"
+     inkscape:cy="288.10784"
      inkscape:window-width="2508"
      inkscape:window-height="1021"
      inkscape:window-x="42"
@@ -141,5 +141,25 @@
          id="tspan12"
          x="1810.6592"
          y="185.46477">1.25&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;font-family:'Delicious Heavy';-inkscape-font-specification:'Delicious Heavy, ';text-align:center;text-anchor:middle;opacity:0.9;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:5, 5;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       x="1216.6161"
+       y="394.64502"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         x="1216.6161"
+         y="394.64502"
+         style="font-size:53.3333px">Inner diameter for Holes:</tspan><tspan
+         sodipodi:role="line"
+         x="1216.6161"
+         y="461.31165"
+         id="tspan14"
+         style="font-size:53.3333px">.25&quot;</tspan></text>
+    <path
+       style="opacity:0.9;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:5,10;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 1289.6975,332.15405 264.9486,-56.97154"
+       id="path14" />
   </g>
 </svg>
